@@ -1416,7 +1416,7 @@
                     <key>Count</key>
                     <integer>0</integer>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Find</key>
                     <data>icCB4v//AP+BygAAAAAPMA==</data>
                     <key>Identifier</key>
@@ -1446,7 +1446,7 @@
                     <key>Count</key>
                     <integer>0</integer>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>Find</key>
                     <data>icCB4v//AP+BygAAAAAPMA==</data>
                     <key>Identifier</key>
@@ -1755,7 +1755,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>ipc_control_port_options=0 -no_compat_check alcid=21 keepsyms=1 debug=0x100 -lilubetaall</string>
+                    <string>-v ipc_control_port_options=0 -no_compat_check alcid=21 keepsyms=1 debug=0x100 -lilubetaall</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
